@@ -1,7 +1,7 @@
 # Mini Shell
 
-A small Unix-style shell written in C using POSIX system calls. Built for
-systems programming interview preparation.
+A modular Unix-style shell implemented in C using POSIX system calls.
+Demonstrates process creation, I/O redirection, and pipelines at the system call level.
 
 ---
 
